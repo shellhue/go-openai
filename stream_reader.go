@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"regexp"
 
-	utils "github.com/shellhue/go-openai/internal"
+	utils "code.byted.org/newcony/go-openai/internal"
 )
 
 var (

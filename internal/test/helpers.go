@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/shellhue/go-openai/internal/test/checks"
+	"code.byted.org/newcony/go-openai/internal/test/checks"
 
 	"net/http"
 	"os"

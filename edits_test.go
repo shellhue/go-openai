@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shellhue/go-openai"
-	"github.com/shellhue/go-openai/internal/test/checks"
+	"code.byted.org/newcony/go-openai"
+	"code.byted.org/newcony/go-openai/internal/test/checks"
 )
 
 // TestEdits Tests the edits endpoint of the API using the mocked server.

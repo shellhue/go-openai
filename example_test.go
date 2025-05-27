@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/shellhue/go-openai"
+	"code.byted.org/newcony/go-openai"
 )
 
 func Example() {

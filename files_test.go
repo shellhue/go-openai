@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
-	utils "github.com/shellhue/go-openai/internal"
-	"github.com/shellhue/go-openai/internal/test/checks"
+	utils "code.byted.org/newcony/go-openai/internal"
+	"code.byted.org/newcony/go-openai/internal/test/checks"
 )
 
 func TestFileBytesUploadWithFailingFormBuilder(t *testing.T) {

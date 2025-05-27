@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"testing"
 
-	openai "github.com/shellhue/go-openai"
-	"github.com/shellhue/go-openai/internal/test/checks"
+	openai "code.byted.org/newcony/go-openai"
+	"code.byted.org/newcony/go-openai/internal/test/checks"
 )
 
 // TestThread Tests the thread endpoint of the API using the mocked server.

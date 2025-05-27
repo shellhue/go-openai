@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	utils "github.com/shellhue/go-openai/internal"
+	utils "code.byted.org/newcony/go-openai/internal"
 )
 
 // Client is OpenAI GPT-3 API client.

@@ -1,3 +1,3 @@
-module github.com/shellhue/go-openai
+module code.byted.org/newcony/go-openai
 
 go 1.18

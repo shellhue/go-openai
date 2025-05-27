@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shellhue/go-openai"
-	"github.com/shellhue/go-openai/internal/test/checks"
+	"code.byted.org/newcony/go-openai"
+	"code.byted.org/newcony/go-openai/internal/test/checks"
 )
 
 // TestModeration Tests the moderations endpoint of the API using the mocked server.

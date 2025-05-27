@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/shellhue/go-openai"
+	"code.byted.org/newcony/go-openai"
 )
 
 func main() {
